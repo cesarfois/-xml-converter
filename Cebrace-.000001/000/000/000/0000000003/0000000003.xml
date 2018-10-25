@@ -1,0 +1,45 @@
+<DWDocument>
+  <FileInfos>
+    <ImageInfos>
+      <ImageInfo id="0,0,0" nPages="0">
+        <FileInfo fileName="iisreset.txt" dwFileName="f0.txt" signedFileName="iisreset.txt" type="normal" length="0" />
+      </ImageInfo>
+    </ImageInfos>
+  </FileInfos>
+  <Section dwguid="c7a3cafa-24a9-499b-a91a-35038bfaba31" number="0" startPage="0">
+    <Metadata version="0">
+      <SystemProperties>
+        <DocID>3</DocID>
+        <DiskNo>1</DiskNo>
+        <PageCount>1</PageCount>
+        <Flags>2</Flags>
+        <StoreUser>CERHCPV_</StoreUser>
+        <Offset>0</Offset>
+        <ModificationUser>CERHCPV_</ModificationUser>
+        <StoreDateTime>2018-10-15T17:53:11</StoreDateTime>
+        <ModificationDateTime>2018-10-15T17:53:11</ModificationDateTime>
+        <DWExtension>.txt</DWExtension>
+        <DWHeaderSize>1749</DWHeaderSize>
+        <DWDocSize>0</DWDocSize>
+        <DWVerId>3</DWVerId>
+        <DWSysVersion>1</DWSysVersion>
+        <DWFlagsEx>0</DWFlagsEx>
+      </SystemProperties>
+      <FieldProperties>
+        <TextVar length="-1" field="FUNCIONARIO">IISRESET</TextVar>
+        <TextVar length="-1" field="ESTADO">PENDENTE</TextVar>
+        <Int Invariant="true" field="DWWBDOCFLAGS">0</Int>
+        <TextVar length="255" field="DWGROUPKEY">iisreset</TextVar>
+        <Int Invariant="true" field="DWGROUPINDEX">0</Int>
+      </FieldProperties>
+      <DatabaseProperties />
+      <StoreProperties DocumentName="IISRESET">
+      </StoreProperties>
+    </Metadata>
+    <Page number="0">
+      <Rendition type="original">
+        <Content id="0,0,0" pageNumberInFile="0" />
+      </Rendition>
+    </Page>
+  </Section>
+</DWDocument>

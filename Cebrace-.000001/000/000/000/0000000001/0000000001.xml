@@ -1,0 +1,64 @@
+<DWDocument>
+  <FileInfos>
+    <ImageInfos>
+      <ImageInfo id="0,0,0" nPages="0">
+        <FileInfo fileName="CTPS.jpg" dwFileName="f0.jpg" signedFileName="CTPS.jpg" type="normal" length="50845" />
+      </ImageInfo>
+    </ImageInfos>
+  </FileInfos>
+  <Section dwguid="e97e95e3-c613-4b55-b0eb-f8734a1463bb" number="0" startPage="0">
+    <Metadata version="0">
+      <SystemProperties>
+        <DocID>1</DocID>
+        <DiskNo>1</DiskNo>
+        <PageCount>1</PageCount>
+        <Flags>2</Flags>
+        <StoreUser>CERHCPV_</StoreUser>
+        <Offset>0</Offset>
+        <ModificationUser>CERHCPV_</ModificationUser>
+        <StoreDateTime>2018-10-15T14:58:22</StoreDateTime>
+        <ModificationDateTime>2018-10-15T14:58:22</ModificationDateTime>
+        <DWExtension>.jpg</DWExtension>
+        <DWHeaderSize>3161</DWHeaderSize>
+        <DWDocSize>50845</DWDocSize>
+        <DWVerId>1</DWVerId>
+        <DWSysVersion>1</DWSysVersion>
+        <DWFlagsEx>0</DWFlagsEx>
+      </SystemProperties>
+      <FieldProperties>
+        <TextVar length="-1" field="FUNCIONARIO">CESAR JAVIER</TextVar>
+        <TextVar length="-1" field="RE">4433222</TextVar>
+        <TextVar length="-1" field="TIPO_DE_DOCUMENTO">CTPS</TextVar>
+        <TextVar length="-1" field="FINALIDADE">ADICIONAR TITULAR</TextVar>
+        <TextVar length="-1" field="ESTADO">PENDENTE</TextVar>
+        <Int Invariant="true" field="DWWBDOCFLAGS">0</Int>
+        <TextVar length="255" field="DWGROUPKEY">CTPS</TextVar>
+        <Int Invariant="true" field="DWGROUPINDEX">0</Int>
+      </FieldProperties>
+      <DatabaseProperties />
+      <StoreProperties DocumentName="CESAR JAVIER">
+      </StoreProperties>
+    </Metadata>
+    <Page number="0">
+      <Rendition type="original">
+        <Content id="0,0,0" pageNumberInFile="0" />
+        <Annotation>
+          <Layer dwguid="ff7de755-4fe7-4ba0-8627-a3178ebfa54b" id="1" z_order="0">
+            <LayerLocation x="0" y="0" />
+            <CreateUser>CERHCPV_</CreateUser>
+            <CreateTime>2018-10-15T14:58:14</CreateTime>
+            <Entry dwguid="6a12ca3f-e05b-4910-a047-cced93836d49">
+              <DisplayFlags>65553</DisplayFlags>
+              <CreateUser>CERHCPV_</CreateUser>
+              <CreateTime>2018-10-15T14:58:14</CreateTime>
+              <TextStamp value="" username="Cebrace-RH-CPV" x="537" y="564" stampflags="1587" color="#ff0000">
+                <font height="-13" width="0" escapement="0" orientation="0" weight="700" italic="0" underline="0" strikeOut="0" charSet="0" outPrecision="0" clipPrecision="0" quality="0" pitchAndFamily="0" faceName="Microsoft Sans Serif" dwFontIndex="1" />
+                <headFont height="-13" width="0" escapement="0" orientation="0" weight="700" italic="0" underline="0" strikeOut="0" charSet="0" outPrecision="0" clipPrecision="0" quality="0" pitchAndFamily="0" faceName="Microsoft Sans Serif" dwFontIndex="1" />
+              </TextStamp>
+            </Entry>
+          </Layer>
+        </Annotation>
+      </Rendition>
+    </Page>
+  </Section>
+</DWDocument>

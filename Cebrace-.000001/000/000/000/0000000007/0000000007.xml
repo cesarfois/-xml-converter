@@ -1,0 +1,71 @@
+<DWDocument>
+  <FileInfos>
+    <ImageInfos>
+      <ImageInfo id="0,0,0" nPages="0">
+        <FileInfo fileName="formulario-unimed.pdf" dwFileName="f0.pdf" type="normal" length="0" />
+      </ImageInfo>
+      <ImageInfo id="1,0,0" nPages="0">
+        <FileInfo fileName="CTPS.jpg" dwFileName="f1.jpg" type="normal" length="0" />
+      </ImageInfo>
+      <ImageInfo id="2,0,0" nPages="0">
+        <FileInfo fileName="RG.jpg" dwFileName="f2.jpg" type="normal" length="0" />
+      </ImageInfo>
+    </ImageInfos>
+  </FileInfos>
+  <Section dwguid="53d9fdb1-c492-4f46-8d8d-8d6db59ff1fd" number="0" startPage="0">
+    <Metadata version="0">
+      <SystemProperties>
+        <DocID>7</DocID>
+        <DiskNo>1</DiskNo>
+        <PageCount>3</PageCount>
+        <Flags>2</Flags>
+        <StoreUser>ADMINIST</StoreUser>
+        <Offset>0</Offset>
+        <ModificationUser>ADMINIST</ModificationUser>
+        <StoreDateTime>2018-10-18T12:51:11</StoreDateTime>
+        <ModificationDateTime>2018-10-18T12:51:11</ModificationDateTime>
+        <DWExtension>.</DWExtension>
+        <DWVerId>7</DWVerId>
+        <DWSysVersion>1</DWSysVersion>
+        <DWFlagsEx>0</DWFlagsEx>
+      </SystemProperties>
+      <FieldProperties>
+        <TextVar length="255" field="FUNCIONARIO">CÉSAR JAVIER FOIS ACOSTA</TextVar>
+        <TextVar length="255" field="RE">334455</TextVar>
+        <TextVar length="255" field="TIPO_DE_DOCUMENTO">FORMULARIO</TextVar>
+        <TextVar length="255" field="FINALIDADE">INCLUSÃO DEPENDENTE</TextVar>
+        <TextVar length="255" field="ESTADO">PENDENTE</TextVar>
+      </FieldProperties>
+      <DatabaseProperties />
+      <StoreProperties DocumentName="CÉSAR JAVIER FOIS ACOSTA">
+      </StoreProperties>
+    </Metadata>
+    <Page number="0">
+      <Rendition type="original">
+        <Content id="0,0,0" pageNumberInFile="0" />
+      </Rendition>
+    </Page>
+  </Section>
+  <Section dwguid="5fd8707f-8169-4207-bdba-0b54e18ca8ce" number="1" startPage="0">
+    <Metadata version="0">
+      <FieldProperties />
+      <DatabaseProperties />
+    </Metadata>
+    <Page number="0">
+      <Rendition type="original">
+        <Content id="1,0,0" pageNumberInFile="0" />
+      </Rendition>
+    </Page>
+  </Section>
+  <Section dwguid="bebc0ab7-2fd0-4368-ac70-9723c27f111c" number="2" startPage="0">
+    <Metadata version="0">
+      <FieldProperties />
+      <DatabaseProperties />
+    </Metadata>
+    <Page number="0">
+      <Rendition type="original">
+        <Content id="2,0,0" pageNumberInFile="0" />
+      </Rendition>
+    </Page>
+  </Section>
+</DWDocument>

@@ -1,0 +1,45 @@
+<DWDocument>
+  <FileInfos>
+    <ImageInfos>
+      <ImageInfo id="0,0,0" nPages="0">
+        <FileInfo fileName="DW6.11_Hotfix41.pdf" dwFileName="f0.pdf" signedFileName="DW6.11_Hotfix41.pdf" type="normal" length="69847" />
+      </ImageInfo>
+    </ImageInfos>
+  </FileInfos>
+  <Section dwguid="8e863355-dc4e-4fbd-b70a-f957f9d7d58d" number="0" startPage="0">
+    <Metadata version="0">
+      <SystemProperties>
+        <DocID>2</DocID>
+        <DiskNo>1</DiskNo>
+        <PageCount>1</PageCount>
+        <Flags>2</Flags>
+        <StoreUser>CERHCPV_</StoreUser>
+        <Offset>0</Offset>
+        <ModificationUser>CERHCPV_</ModificationUser>
+        <StoreDateTime>2018-10-15T15:14:43</StoreDateTime>
+        <ModificationDateTime>2018-10-15T15:14:43</ModificationDateTime>
+        <DWExtension>.pdf</DWExtension>
+        <DWHeaderSize>1797</DWHeaderSize>
+        <DWDocSize>69847</DWDocSize>
+        <DWVerId>2</DWVerId>
+        <DWSysVersion>1</DWSysVersion>
+        <DWFlagsEx>0</DWFlagsEx>
+      </SystemProperties>
+      <FieldProperties>
+        <TextVar length="-1" field="FUNCIONARIO">DW6.11_HOTFIX41</TextVar>
+        <TextVar length="-1" field="ESTADO">PENDENTE</TextVar>
+        <Int Invariant="true" field="DWWBDOCFLAGS">0</Int>
+        <TextVar length="255" field="DWGROUPKEY">DW6.11_Hotfix</TextVar>
+        <Int Invariant="true" field="DWGROUPINDEX">41</Int>
+      </FieldProperties>
+      <DatabaseProperties />
+      <StoreProperties DocumentName="DW6.11_HOTFIX41">
+      </StoreProperties>
+    </Metadata>
+    <Page number="0">
+      <Rendition type="original">
+        <Content id="0,0,0" pageNumberInFile="0" />
+      </Rendition>
+    </Page>
+  </Section>
+</DWDocument>

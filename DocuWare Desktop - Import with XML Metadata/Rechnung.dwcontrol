@@ -1,0 +1,13 @@
+<ControlStatements xmlns="http://dev.docuware.com/Jobs/Control" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<Page>
+<FileCabinet name="PE Documents"/>
+<Field dbName="COMPANY" type="Text" value="Peters Engineering"/>
+<Field dbName="DEPARTMENT" type="Text" value="Construction"/>
+<Field dbName="SUBJECT" type="Text" value="Area determination"/>
+<Field dbName="DOC__TYPE" type="Text" value="invoice"/>
+<Field dbName="FORMAT" type="Text" value="PDF"/>
+<Field dbName="PROJECT" type="Text" value="DE2004007"/>
+<Field dbName="DOC__DATE" type="Date" value="2010-04-03" culture="en-US" format="yyyy-MM-dd"/>
+</Page>
+</ControlStatements>

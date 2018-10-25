@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+
+<productListing title="Python Products">
+
+    <product id="1">
+        <name>Controle PS2</name>
+        <description>Utilizado para Playstation e PC</description>
+        <cost>R$24.99</cost>
+        <shipping>R$7.99</shipping>
+    </product>
+
+    <product id="2">
+        <name>Jogo Combate</name>
+        <description>Mortal combat</description>
+        <cost>R$28.99</cost>
+        <shipping>R$1.99</shipping>
+    </product>
+-
+    <product id="3">
+        <name>Jogo de Futebol</name>
+        <description>Fifa 2018</description>
+        <cost>R$55.99</cost>
+        <shipping>R$20.99</shipping>
+    </product>
+
+</productListing>

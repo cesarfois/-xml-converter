@@ -1,0 +1,15 @@
+<ControlStatements xmlns="http://dev.docuware.com/Jobs/Control" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Page>
+    <FileCabinet name="PE Documents"/>
+	<Field dbName="CUSTOMER_NUMBER" type="Text" value="129877"/>
+	<Field dbName="COMPANY" type="Text" value="Solutions, Inc."/>
+	<Field dbName="DEPARTMENT" type="Text" value="NC"/>
+	<Field dbName="SUBJECT" type="Text" value="DSC Training 2015"/>
+	<Field dbName="DOC__TYPE" type="Text" value="invoice"/>
+	<Field dbName="STATUS" type="Text" value="NEW"/>
+	<Field dbName="DOC__DATE" type="Date" value="2009-03-01" culture="en-US" format="yyyy-MM-dd"/>
+	<Field dbName="CONTACT" type="Text" value="Fred Willims"/>
+	<Field dbName="AMOUNT" type="Numeric" value="22430.00" culture="en-US" decimalPlaces="2"/>
+	<Field dbName="VOUCHER_NUMBER" type="Text" value="100031"/> 
+  </Page>
+</ControlStatements>
