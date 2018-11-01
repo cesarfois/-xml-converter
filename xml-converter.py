@@ -14,13 +14,14 @@ xml_file = os.path.join(base_path, "read.xml")
 tree = et.parse(xml_file)
 
 root = tree.getroot()
+print()
+print()
 
-"""
-print(root)
-print(root.tag)
-print(root.attrib)
-print(root.tag, root.attrib)
-"""
+#print(root)
+#print(root.tag)
+#print(root.attrib)
+#print(root.tag, root.attrib)
+
 
 """
 #listando in root
@@ -39,9 +40,11 @@ for child in root:
 print(root[1][1].text)
 """
 
-"""
-#Buscando um elemento de interesse
-for neighbor in root.iter('product'):
-      print(neighbor.attrib)
 
-"""
+#Buscando um elemento de interesse
+
+#for c in root.iter('value'):
+ #     print(c.text)
+
+for e in root.findall("RYAN"):
+      print(e.text)
